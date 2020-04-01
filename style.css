@@ -1,0 +1,135 @@
+body{
+   color:#40514E;
+   margin :0;
+   text-align: center;
+   font-family: 'Merriweather', serif;
+}
+h1{
+  color:#30e3ca;  
+   font-size:90px;
+   margin:50px auto 0 auto;
+   
+   font-family:'Sacramento', cursive; 
+}
+hr{
+   border:dotted  #EAF6F6 6px;
+   border-bottom:none;
+   width:5%;
+   margin:100px auto;
+}
+   
+
+p{
+   width:30%;
+   margin:auto;
+   line-height: 2;
+}
+#top-para{
+   color:#30e3ca;
+   font-size: 30px;
+   font-weight: 700;
+}
+.intro{
+   width:30%;
+   margin:auto;
+}
+h2{
+    color:#30e3ca;
+   font-family: 'Merriweather', serif;
+   font-size: 2.5rem;
+   padding:10px;
+}
+h3{
+   color:#11999E;
+   font-family: 'Merriweather', serif;
+}
+
+.top{
+   background-color:#E3FDFD;
+   position: relative;
+   padding-top: 120px;
+}
+   .skill-row{
+      width: 80%;
+      margin:100px auto 100px auto;
+      text-align: left;
+   
+   }
+   .girl{
+       width:25%;
+       float:left;
+   }
+   .soccer{
+       width:25%;
+       float:right;
+   }
+
+.middle{
+   margin:100px 0;
+}
+.contact{
+    width:50%;
+    margin:40px auto 60px;
+}
+.imgcloud1{
+   position: absolute;
+   right :200px;
+   top:25px;
+
+}
+.imgcloud2{
+   position: absolute;
+   left:200px;
+   top:300px;
+}
+.heading{
+   margin-left:350px
+}
+.read{
+   margin-left: 350px;
+}
+a{
+   columns: #11999E;
+   font-family: 'Merriweather', serif;
+   margin:10px 10px;
+   text-decoration: none;
+   font-size: 85%;
+}
+a:hover{
+     color:white;
+}
+.copyright{
+   color:white;
+   font-size:0.75rem;
+}
+.bottom-container{
+   margin:50px auto auto auto;
+   background-color:#30e3ca; 
+   padding-top: 20px ;
+   padding-bottom: 20px;
+}
+.testbutton {
+   font-family: verdana;
+   color: #FFFFFF ;
+   font-size: 16px;
+   text-shadow: 0px 4px 0px #7CACDE;
+   box-shadow: 1px 1px 1px #BEE2F9;
+   padding: 10px 25px;
+   -moz-border-radius: 1px;
+   -webkit-border-radius: 1px;
+   border-radius: 1px;
+   border: 2px solid #3866A3;
+   background: #63B8EE;
+   background: linear-gradient(top,  #7EC8F2,  #409FC2);
+   background: -ms-linear-gradient(top,  #7EC8F2,  #409FC2);
+   background: -webkit-gradient(linear, left top, left bottom, from(#7EC8F2), to(#409FC2));
+   background: -moz-linear-gradient(top,  #7EC8F2,  #409FC2);
+ }
+ .testbutton:hover {
+   color: #332975;
+   background: #468CCF;
+   background: linear-gradient(top,  #A1EFFF,  #2A4F66);
+   background: -ms-linear-gradient(top,  #A1EFFF,  #2A4F66);
+   background: -webkit-gradient(linear, left top, left bottom, from(#A1EFFF), to(#2A4F66));
+   background: -moz-linear-gradient(top,  #A1EFFF,  #2A4F66);
+ }
